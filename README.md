@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Humorist3142
 - 👀 I’m interested in ...Cybersecurity.
 - 🌱 I’m currently learning ...how to code in HTML.
-- 📫 How to reach me ...amateur-dev@magitek.mailer.me
+- 📫 How to reach me: amateur-dev@magitek.mailer.me
 - 😄 Pronouns: ...he/him/his
 
 - 💞️ (I’m looking to collaborate on) ... TBD
