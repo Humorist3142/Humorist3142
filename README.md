@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Humorist3142
 - 👀 I’m interested in ...Cybersecurity.
 - 🌱 I’m currently learning ...how to code in HTML.
-- 💞️ I’m looking to collaborate on ...N/A
 - 📫 How to reach me ...amateur-dev@magitek.mailer.me
 - 😄 Pronouns: ...he/him/his
-- ⚡ Fun fact: ...
+
+- 💞️ (I’m looking to collaborate on) ... TBD
 
 <!---
 Humorist3142/Humorist3142 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
