@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Humorist3142
 - 👀 I’m interested in ...Cybersecurity.
-- 🌱 I’m currently learning ...how to code in HTML.
+- 🌱 I’m currently learning ... JavaScript & IT certification.
 - 📫 How to reach me: amateur-dev@magitek.mailer.me
-- 😄 Pronouns: ...he/him/his
+- 😄 Pronouns: ...Male
 
 - 💞️ (I’m looking to collaborate on) ... TBD
 
