@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Humorist3142
-- 👀 I’m interested in ...Cybersecurity.
+- 👀 I’m interested in ... Word Puzzle & Trivia mini-apps (HTML).
 - 🌱 I’m currently learning ... JavaScript & IT certification.
 - 📫 How to reach me: amateur-dev@magitek.mailer.me
 - 😄 Pronouns: ...Male
